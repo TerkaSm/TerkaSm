@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerkaSm
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 
 <h2>Languages & Tools</h2>
 
